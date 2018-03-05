@@ -1,6 +1,6 @@
 #include <opencv2\highgui\highgui.hpp>
 #include <opencv2\imgproc\imgproc.hpp>
-#include "VideoFaceDetector.h"
+#include "VideoFaceTracker.h"
 #include <sstream>
 #include <cv.h>
 #include <highgui.h>
